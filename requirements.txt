@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+pandas
+xgboost
+librosa
+soundfile
+matplotlib
+tqdm
+plotly
+ipykernel
